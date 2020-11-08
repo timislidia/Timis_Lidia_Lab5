@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timis_Lidia_Lab5", "Timis_Lidia_Lab5.csproj", "{7D709EF0-30D7-49EE-869A-4F839E037BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D709EF0-30D7-49EE-869A-4F839E037BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D709EF0-30D7-49EE-869A-4F839E037BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D709EF0-30D7-49EE-869A-4F839E037BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D709EF0-30D7-49EE-869A-4F839E037BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7016A8E9-1C00-4664-B3FE-A826023D42D4}
+	EndGlobalSection
+EndGlobal
